@@ -1,0 +1,9 @@
+.music_index{
+    display: flex;
+    flex-direction: row;
+    gap:1rem;
+}
+.product-container{
+    position: absolute;
+}
+
